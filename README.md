@@ -16,3 +16,20 @@ El repositorio de materiales y proyectos de la asignatura **Programación I** de
 
 
 Se recomienda además el leer los artículos contenidos en la carpeta de [documentos](documentos/README.md)
+
+## 🔧 Herramientas et al
+
+- [GIT](https://git-scm.com/) & [GitHub](https://github.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [PlantUML](https://plantuml.com/es/).
+- [Google suite](https://drive.google.com/drive/u/0/my-drive)
+- [Plantillas](/documentos/plantillas.md)
+
+## 📖 Bibliografía & enlaces interesantes
+
+> [!NOTE] 
+> Algunos enlaces podrían requerir *credenciales de acceso al campus* o a otros espacios colaborativos.
+
+- [Repo **USantaTecla**, del Prof. Luis Fernández](https://github.com/USantaTecla-0-general/3-publicaciones)
+- Sitio oficial de Java: [Java](https://www.java.com/es/) / [JDK](https://jdk.java.net/)
+- [Diferencia entre ciencias de la computación e ingenieria de software](https://interestingengineering.com/culture/computer-science-vs-software-engineering-how-are-they-different)
