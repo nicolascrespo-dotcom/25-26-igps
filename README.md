@@ -21,7 +21,7 @@ Se recomienda además el leer los artículos contenidos en la carpeta de [docume
 
 - [GIT](https://git-scm.com/) & [GitHub](https://github.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [PlantUML](https://plantuml.com/es/).
+- [PlantUML](https://plantuml.com/es/)
 - [Google suite](https://drive.google.com/drive/u/0/my-drive)
 - [Plantillas](/documentos/plantillas.md)
 
