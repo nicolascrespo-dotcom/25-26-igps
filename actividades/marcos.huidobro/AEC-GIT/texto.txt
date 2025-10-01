@@ -5,3 +5,4 @@ PASOS QUE HE SEGUIDO
 2. Cloné el repositorio en GitHub.
 3. Creé la estructura de carpetas con mi nombre y las subcarpeta y el archivo inicial texto.txt.
 4. Acabo de crear ahora la rama docs/modificaciones, y voy a trabajar en ella.
+5. He hecho los commits nuevos.
