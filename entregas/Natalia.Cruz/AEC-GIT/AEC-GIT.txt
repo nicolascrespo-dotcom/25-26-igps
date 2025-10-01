@@ -29,5 +29,12 @@ git checkout -b docs/modificaciones
 
 9. Añadí varias capturas de pantalla del proceso y las incluí en la carpeta. Luego, las fui agregando al repositorio con commits separados, por ejemplo:
 
-git add AEC-GIT.txt
+git add AEC-GIT.txt 
 git commit -m "añado descripción de pasos"
+
+git add captura1.png
+git commit -m "subo captura de creación de carpetas"
+
+git add captura2.png
+git commit -m "subo captura del primer commit"
+
