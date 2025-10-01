@@ -2,7 +2,7 @@
 
 # Primera actividad
 
-Para la actividad deberéis sacar capturas de cada parte del proceso.
+Para la actividad deberéis sacar capturas de cada parte del proceso a través de comandos.
 
   1. Hacer fork de este repositorio y clonarlo en vuestro ordenador.
   2. Crear una carpeta dentro de actividades llamada con vuestro "nombre.apellido".
