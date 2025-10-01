@@ -40,17 +40,13 @@ Se realizaron entre **2 y 5 commits** con mensajes descriptivos.
 
 ### 5. Combinar ramas
 Se realizó la combinación de la rama `docs/modificaciones` con la rama `main`.  
-
-**Captura:**  
-![Merge realizado](./imagenes/merge.png)
-
 ---
 
 ### 6. Crear Pull Request
 Finalmente, se creó una **Pull Request** hacia el repositorio original del profesor.  
 
 **Captura:**  
-![Pull Request](./imagenes/pullrequest.png)
+![Pull Request](image-2.png)
 
 ---
 
