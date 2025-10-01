@@ -36,5 +36,5 @@ git add captura1.png
 git commit -m "subo captura de creación de carpetas"
 
 git add captura2.png
-git commit -m "subo captura del primer commit"
+git commit -m "subo captura del resultado del commit anterior"
 
