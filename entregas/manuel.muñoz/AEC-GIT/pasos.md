@@ -14,7 +14,7 @@
 - Se agrego una frase de mi rommie el psicologo
 
 ## 4. Commit de documentacion
-![Documentacion]
+![Documentacion](./img/commit_docs.png)
 - Se ha subido toda la documentacion en un solo commit
-
+- posteriormente se ha agregado una ultima imagen para mas aclaracion
 
