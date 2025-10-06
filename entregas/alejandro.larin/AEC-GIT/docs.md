@@ -1,5 +1,14 @@
 # Actividad de Evaluación Continua - GIT
 
+## Índice
+
+- [Hacer Fork del repositorio](#hacer-fork-del-repositorio)
+- [Clonar nuestro Repositorio Remoto](#clonar-nuestro-repositorio-remoto)
+- [Implementación de carpetas para la actividad](#implementación-de-carpetas-para-la-actividad)
+- [Implementación de commits y cambio de rama](#implementación-de-commits-y-cambio-de-rama)
+- [Implementacion de la documentacion](#implementacion-de-la-documentacion)
+- [Implementacion del Merge y Pull Reques](#implementacion-del-merge-y-pull-reques)
+
 ## Hacer Fork del repositorio
 Para hacer el **Fork** del repositorio, se debe acceder al [Repositorio oficial de IGPS](https://github.com/miguelancabezon/25-26-igps) y hacer un fork del repositorio. Para ello es necesario hacer clic en el botón que se muestra a continuación.
 
