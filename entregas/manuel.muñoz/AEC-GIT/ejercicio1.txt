@@ -1,1 +1,3 @@
 Nuevo archivo de texto
+
+Este archivo de texto solamente acepta caracteres simples
