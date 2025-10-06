@@ -64,4 +64,14 @@ Una vez echo el comando usted estara en una rama nueva, A continuacion se presen
 
 ![Create and change branch exemple](./img/git-checkout.jpg)
  
+## Implementacion de la documentacion
+Para la implentacion de la documentacion se tienen que realizar un `commit` por imagen y algunos `commits` por temas esto depende de cada persona, en este caso se hiso un `commit` tipo `docs` de 3 temas y los demas `commits` fueron echos por cada tema. Para esta documentacion se decidio reutilizar el archivo `file.txt` y cambiarla a formato `md`.
+
+- Es importante siempre haceer un commit despues de cambiar el nombre, mover o borrar un archivo ya que git lo toma como si un archivo fue borrado y creado otro.
+
+A continuacion se presenta un ejemplo mas grafico de como debe ser la estructura de  nuestro **Work Space**.
+
+![Vscode Exemple](./img/vscode-exemple.jpg)
  
+Una vez implementada la documentacion se pasa a la parte final.
+
