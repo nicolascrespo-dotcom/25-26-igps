@@ -1,2 +1,3 @@
 Archivo inicial de entrega
 Paso 1: Fork realizado desde GitHub
+Paso 2: Repositorio clonado y estructura de carpetas creada
