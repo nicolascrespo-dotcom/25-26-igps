@@ -43,3 +43,25 @@ touch file.txt # Crear un archivo en formato txt
 Y  listo. Ya se obtiene el **WorkSpace** donde se implementaran los cambios sugeridos en la actividad. Para ver un ejemplo mas detallado de como se tienen que aplicar los comandos se mostrara una imagen a continuación...
 
 ![Commands of shell for create dirs and files](./img/commands-shell.jpg)
+
+## Implementación de commits y cambio de rama
+En la actividad se solicita crear un commit con el siguiente titulo `docs: nuevo archivo` para ello primero agregaremos el archivo en el **Staging area** con el comando `git add .` con este comando le estamos diciendo a git **"Agregame todos los cambios que esten en este mismo directorio"**.
+
+Una vez agregado se tiene que realizar el `commit` con el titulo `docs: nuevo archivo` con el comando `git commit -m "<title>"`, este comando es para **capturar una imagen del codigo del proyecto en ese presiso momento** tambien llamados **Puntos de control** o **Instantaneas**  a continuancion se presentan los comandos nesesarios para la implentacion del `commit`.
+
+```bash
+git add . # Agregar cambios al Staging area
+git commit -m "docs: nuevo archivo" # Crear un Punto de Control
+```
+
+Una vez ya realizado el `commit` se solicita crear una rama con el nombre `docs/modificaciones`, para realizar esta acción hay varias alternativas pero en este caso se usara el comando `git checkout` con la flag `-b` el comando completo seria `git checkout -b <BRANCH-NAME>`, con este comando le decimos a git creame una rama con un nombre en especifico y cambiate a ella a continuación se presenta el comando.
+
+```bash
+git checkout -b docs/modificaciones # COmando para crear y cambiarse  a la rama docs/modificaciones
+```
+
+Una vez echo el comando usted estara en una rama nueva, A continuacion se presenta un ejemplo mas grafico aplicando el mismo comando en la terminal.
+
+![Create and change branch exemple](./img/git-checkout.jpg)
+ 
+ 
