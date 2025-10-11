@@ -23,3 +23,12 @@ Si aún tienes dudas, te dejo el enlace al [temario de IDEs](https://github.com/
   - Clonar y forkear.
 
 Si aún tienes dudas, te dejo el enlace al [temario de Git](https://github.com/miguelancabezon/IGPS/tree/main/temario/2-git).
+
+
+## Ingeniería y software
+  - ¿Qué es la ingeniería?
+  - ¿Qué se considera ser un/a ingenier@?
+  - ¿Qué cualidades tiene un/a ingenier@?
+  - Algun@s ingenier@s famosos.
+
+Si aún tienes dudas, te dejo el enlace al [temario de ingeniería y software](https://github.com/miguelancabezon/IGPS/tree/main/temario/3-ingenieria-software).
