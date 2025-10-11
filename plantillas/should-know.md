@@ -17,5 +17,9 @@ Si aún tienes dudas, te dejo el enlace al [temario de IDEs](https://github.com/
   - Como instalar Git y crear un repositorio.
   - Las tres fases en un repositorio.
   - Primeros comandos: git init, git add *, git commit, ...
+  - Repositorios remotos.
+  - Git pull, git push.
+  - Cómo hacer una Pull Request.
+  - Clonar y forkear.
 
 Si aún tienes dudas, te dejo el enlace al [temario de Git](https://github.com/miguelancabezon/IGPS/tree/main/temario/2-git).
