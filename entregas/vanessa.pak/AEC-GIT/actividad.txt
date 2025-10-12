@@ -1,1 +1,2 @@
 Primera actividad de GIT completada por Vanessa Pak
+Paso 1: Crear fork y clonar repositorio
