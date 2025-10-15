@@ -3,4 +3,4 @@
 
 ## Ejercicios de Markdown
 
-- [Creación de CV](../markdown-cv.md)
+- [Creación de CV](markdown-cv.md)
