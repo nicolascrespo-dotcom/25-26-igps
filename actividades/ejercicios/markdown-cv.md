@@ -1,4 +1,4 @@
-# Ejercico Markdown - CV 
+# Ejercicio Markdown - CV 
 
 ## Recursos
 
