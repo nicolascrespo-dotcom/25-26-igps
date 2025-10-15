@@ -1,6 +1,6 @@
 # Alberto Merino
 
-![Foto de perfil](image.png)
+<img src="image.png" alt="Foto de perfil" width="200"/>
 
 ## Índice
 
@@ -15,53 +15,49 @@
 
 ## Perfil
 
-Texto del perfil aquí.
+Soy un alumno de la universidad de uneatlantico que le gusta mucho trabajar y estudiar.
 
 ---
 
 ## Educación
 
-* **Título o Grado** — Centro — Años
+* **Título o Grado** — Uneatlantico — 1
 
-  * Descripción breve.
+  * Estoy haciendo un grado de Ingenieria Informática.
 
-* **Otro estudio** — Centro — Años
+* **Otro estudio** — Decroly — 2
 
-  * Descripción breve.
+  * Hice un grado superior de Administración de sistemas informáticos en red.
 
 ---
 
 ## Experiencia Profesional
 
-* **Puesto** — Empresa — Años
+* **Puesto** — Symtel — Años
 
   * Descripción breve de tareas o responsabilidades.
-
-* **Otro puesto** — Empresa — Años
-
-  * Descripción breve.
 
 ---
 
 ## Habilidades
 
-* Habilidad 1
-* Habilidad 2
-* Habilidad 3
+* Habilidad 1: Bueno en todo.
+* Habilidad 2: Estudiar pila
+* Habilidad 3: Dejar de lado los estudios para jugar videojuegos.
 
 ---
 
 ## Datos de contacto
 
-* 🐙 **GitHub:** [Enlace](#)
-* 🔗 **LinkedIn:** [Enlace](#)
-* ✉️ **Email:** [mailto:tu@correo.com](mailto:tu@correo.com)
-* 📞 **Teléfono:** +34 600 000 000
+* 🐙 **GitHub:** [Enlace](https://github.com/albertomeriino)
+* 🔗 **LinkedIn:** [No tengo LINGANGU](#)
+* ✉️ **Email:** [alberto.merino@alumnos.uneatlantico.es](alberto.merino@alumnos.uneatlantico.es)
+* 📞 **Teléfono:** +34 623 188 332
 
 ---
 
 ## Idiomas
 
-1. Idioma 1 — Nivel
-2. Idioma 2 — Nivel
-3. Idioma 3 — Nivel
+1. Español — Nativo
+2. Ingles — Nivel B2
+3. Frances — Mu mal
